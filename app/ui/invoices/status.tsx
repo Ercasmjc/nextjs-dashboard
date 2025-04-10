@@ -1,5 +1,5 @@
 import clsx from 'clsx';
- 
+
 export default function InvoiceStatus({ status }: { status: string }) {
   return (
     <span
@@ -11,5 +11,6 @@ export default function InvoiceStatus({ status }: { status: string }) {
         },
       )}
     >
-    // ...
-)}
+    </span>
+  );
+}
