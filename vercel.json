@@ -2,10 +2,6 @@
     "build": {
       "env": {
         "NODE_ENV": "production"
-      },
-      "aptPackages": [
-        "build-essential",
-        "python3"
-      ]
+      }
     }
   }
